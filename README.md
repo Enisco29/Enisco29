@@ -20,23 +20,26 @@
 
 ---
 
-## 🚀 Tech Stack
-
-**Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+### 🛠 Tech Stack
 
 **Frontend**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-**Backend & Tools**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 
 ---
 
