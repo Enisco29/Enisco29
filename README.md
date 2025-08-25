@@ -1,6 +1,6 @@
 
 <!-- Banner or hero text -->
-<h1 align="center">Hey there 👋, I'm Opeyemi Oluwafisayo</h1>
+<h1 align="center">Hey there 👋, I'm Opeyemi Eniola</h1>
 <h3 align="center">🚀 Developer | Builder | Problem Solver</h3>
 
 <p align="center">
