@@ -12,7 +12,6 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on: **[voice AI mock interview]**
 - 🌱 Currently learning: **[Python]**
 - 🛠️ Focused on: **[Frontend / Fullstack / Backend]**
 - 📫 Reach me: [opeyemioluwafisayo29@gmail.com] | [my-portfolio](https://devenny.vercel.app)
