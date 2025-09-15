@@ -44,10 +44,10 @@
 
 ## 📂 Featured Projects
 
-### 🌏 [Quickblog](https://github.com/Enisco29/quickblog)
+### 🌏 [Blogswave]
 A place where users can express thereselves through blogs
 **Stack:** React, Tailwind CSS, Node.js, MongoDB  
-👉 [Live Demo](http://quickblog-theta.vercel.app)
+👉 [Live Demo](https://blogswave.vercel.app)
 
 ---
 
